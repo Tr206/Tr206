@@ -35,8 +35,11 @@ impact. Currently, I am expanding my expertise in Cloud Computing (Azure & GCP) 
 ---
 
 ## ⚡ GitHub Stats
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tr206&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr206&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Tr206&show_icons=true&theme=radical&count_private=true" alt="Tyler's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr206&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
